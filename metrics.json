@@ -1,0 +1,19 @@
+{
+  "dataset_samples": 801,
+  "gene_features": 20531,
+  "train_samples": 640,
+  "test_samples": 161,
+  "classes": [
+    "BRCA",
+    "COAD",
+    "KIRC",
+    "LUAD",
+    "PRAD"
+  ],
+  "accuracy": 0.9937888198757764,
+  "macro_f1": 0.994710743801653,
+  "training_seconds": 2.4890353679656982,
+  "random_state": 42,
+  "n_estimators": 150,
+  "test_split": 0.2
+}
